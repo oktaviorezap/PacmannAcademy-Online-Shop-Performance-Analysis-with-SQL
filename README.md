@@ -11,7 +11,7 @@ As a data analyst in an emerging online shopping platform, the manager has reque
 # The Dataset
 <br>This database provides an insight about a simple online shop application, including product details, customer information, order and sales information. 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9c2b81c4-c0f5-45ef-8089-6faacbb59e2e" width="500" height="400">
+  <img src="https://github.com/user-attachments/assets/9c2b81c4-c0f5-45ef-8089-6faacbb59e2e" width="500" height="300">
 </div>
 
 # Entity Relationship Diagram (ERD) Design
