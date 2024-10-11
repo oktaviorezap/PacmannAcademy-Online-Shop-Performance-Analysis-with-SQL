@@ -7,3 +7,12 @@
 As a data analyst in an emerging online shopping platform, the manager has requested the following tasks:
 <br> 1. Provide insights from the current transaction and customer history.
 <br> 2. Design the necessary tables for new features.
+
+# The Dataset
+<br>This database provides an insight about a simple online shop application, including product details, customer information, order and sales information. 
+<br>![image](https://github.com/user-attachments/assets/9c2b81c4-c0f5-45ef-8089-6faacbb59e2e)
+
+# Entity Relationship Diagram (ERD) Design
+![image](https://github.com/user-attachments/assets/cab843bc-6bc9-4d70-99b6-c4ba8e2ff763)
+
+ 
